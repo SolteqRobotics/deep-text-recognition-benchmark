@@ -1,5 +1,7 @@
 # Deep-Text-Recognition-Benchmark
 
+THIS REPOSITORY HAS BEEN DEPRECATED FOR ALL PURPOSES RELATING TO RETAIL ROBOT. PLEASE REFER TO [trba-ocr](https://github.com/SolteqRobotics/trba-ocr)
+
 This repository is a fork of [deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark), based on the paper titled [What Is Wrong With Scene Text Recognition Model Comparisons?](https://arxiv.org/abs/1904.01906).
 
 The original work is a benchmark comparing the performance of several SOTA approaches to Scene Text Recognition by approaching the problem in four-sages - transformation, feature extraction, sequence modelling and Prediction. 
